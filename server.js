@@ -8,6 +8,6 @@ app.get("/", (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log("Server started on port 8080");
+    console.log("Server started on port 10000");
 });
 
