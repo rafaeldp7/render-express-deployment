@@ -1,0 +1,22 @@
+{
+  "name": "render-express-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeldp7/render-express-deployment.git"
+  },
+  "author": "Raf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeldp7/render-express-deployment/issues"
+  },
+  "homepage": "https://github.com/rafaeldp7/render-express-deployment#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
